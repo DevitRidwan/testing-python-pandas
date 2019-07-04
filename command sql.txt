@@ -1,0 +1,1 @@
+select id "ID", concat(firstname,lastname) "Full Name", email "Email", item "Item", quantity "Quantity", total_price "Total Price" from customer;

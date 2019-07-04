@@ -1,0 +1,11 @@
+ID,firstname,lastname,email,item,quantity,total_price
+1,Tommy,Bejo,tommy@mail.com,Barang1,2,100000
+2,Joko,Widodo,joko@mail.com,Barang2,1,50000
+3,Jusuf,Kalla,jusuf@mail.com,Barang3,3,150000
+4,Tommy,Bejo,tommy@mail.com,Barang2,2,100000
+5,Susilo,Bambang,susilo@mail.com,Barang3,3,150000
+6,Prabowo,Subianto,prabowo@mail.com,Barang4,4,200000
+7,Sandi,Uno,sandi@mail.com,Barang5,5,250000
+8,Ridwan,Arif,ridwan@mail.com,Barang6,6,300000
+9,Nur,Hakim,nur@mail.com,Barang7,7,350000
+10,Luis,Adi,luis@mail.com,Barang8,8,400000
