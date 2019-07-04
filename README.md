@@ -1,7 +1,4 @@
-## Finology Test
-
-Build with Flask
-belum connect database
+## Testing python & pandas
 
 Step Runnnig Postgres:
 1. masuk terminal
